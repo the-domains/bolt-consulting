@@ -1,0 +1,14 @@
+layout_spectrum: 0.12333555985242128
+typography_spectrum: 0.6019900338724256
+color:
+  brandStrength: 0.9090537847951055
+  lightness: 0.19933912460692227
+  saturation: 0.08996683172881603
+  rhythmicContrast: 0.13859498989768326
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Bolt Consulting
